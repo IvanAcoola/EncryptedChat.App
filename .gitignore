@@ -1,21 +1,17 @@
-# Prerequisites
-*.d
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Fortran module files
-*.mod
-*.smod
-
-# Executables
-*.exe
-*.out
-*.app
+.vs/EncryptedChat.App/v17/Solution.VC.db
+.vs/EncryptedChat.App/v17/ipch/AutoPCH/e21d66b1fff15785/ENCRYPTEDCHAT.APP.ipch
+.vs/EncryptedChat.App/v17/ipch/AutoPCH/dd7eacf31d8905a0/FORMATTEDOUTPUT.ipch
+.vs/EncryptedChat.App/v17/ipch/AutoPCH/d57ff1121b114192/FORMATTEDOUTPUT.ipch
+.vs/EncryptedChat.App/v17/ipch/AutoPCH/bdc9dac676288235/DATAENCRYPTION.ipch
+.vs/EncryptedChat.App/v17/ipch/AutoPCH/5fc60126681fb013/ENCRYPTEDCHAT.APP.ipch
+.vs/EncryptedChat.App/v17/ipch/AutoPCH/4b287581fd0dd41f/DATAENCRYPTION.ipch
+.vs/EncryptedChat.App/v17/fileList.bin
+.vs/EncryptedChat.App/v17/DocumentLayout.json
+.vs/EncryptedChat.App/v17/Browse.VC.db
+.vs/EncryptedChat.App/v17/.suo
+.vs/EncryptedChat.App/FileContentIndex/e058def9-7de3-46d0-8f5f-b9782493ca8f.vsidx
+.vs/EncryptedChat.App/FileContentIndex/dd727213-0d88-47d0-9a07-8bfdb6aec414.vsidx
+.vs/EncryptedChat.App/FileContentIndex/9dac751c-f598-4667-baf5-82db272a98f3.vsidx
+.vs/EncryptedChat.App/FileContentIndex/5241343f-e79e-466c-b9cf-b1ba1bf18e0d.vsidx
+.vs/EncryptedChat.App/FileContentIndex/30ffbd1c-edcc-4767-8c5b-92b672837973.vsidx
