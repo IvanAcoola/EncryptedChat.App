@@ -3,6 +3,8 @@
 
 Project was done for practice, but can be used for secured chatting.
 
+Server -> https://github.com/IvanAcoola/EncryptedChat.Server
+
 
 
 
